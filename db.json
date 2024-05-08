@@ -3,7 +3,7 @@
     {
       "id": 1,
       "type": "Featured",
-      "src": "src/images/homeIntro/1.jpg",
+      "src": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
       "name": "Upper Watt Residence / Seear-Budd Ross"
     },
     {
