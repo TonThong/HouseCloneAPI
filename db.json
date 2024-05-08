@@ -236,35 +236,35 @@
         ],
         "offices": [
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           }
         ]
@@ -373,81 +373,81 @@
         ],
         "offices": [
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           }
         ],
         "products": [
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
             "title": "Fiber Cement Facade Panel - Tectiva"
           }
@@ -470,8 +470,8 @@
           {
             "images": [
               "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -482,8 +482,8 @@
           {
             "images": [
               "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -494,8 +494,8 @@
           {
             "images": [
               "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -506,8 +506,8 @@
           {
             "images": [
               "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -518,8 +518,8 @@
           {
             "images": [
               "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -530,8 +530,8 @@
           {
             "images": [
               "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
