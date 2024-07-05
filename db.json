@@ -3,44 +3,44 @@
     {
       "id": 1,
       "type": "Featured",
-      "src": "src/images/homeIntro/1.jpg",
+      "src": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
       "name": "Upper Watt Residence / Seear-Budd Ross"
     },
     {
       "id": 2,
       "type": "Featured",
-      "src": "src/images/homeIntro/2.jpg",
+      "src": "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
       "name": "A Home Around The Forest / YSLA Architects"
     },
     {
       "id": 3,
       "type": "Featured",
-      "src": "src/images/homeIntro/3.jpg",
-      "name": "Can Modular Systems Contribute to the Process?"
+      "src": "https://house-clone-api.vercel.app/src/images/homeIntro/3.jpg",
+      "name": "The Promise of Accessibility: Can Modular Systems Contribute to Democratizing the Design Process?"
     },
     {
       "id": 4,
       "type": "Editor's Choice",
-      "src": "src/images/homeIntro/Projects/picture-1.jpg",
+      "src": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
       "name": "Rau Haus / Feldman Architecture"
     },
     {
       "productsCatalog": [
         {
           "id": 1,
-          "src": "src/images/homeIntro/ProductsCatalog/1.jpeg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/1.jpeg"
         },
         {
           "id": 2,
-          "src": "src/images/homeIntro/ProductsCatalog/2.jpeg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/2.jpeg"
         },
         {
           "id": 3,
-          "src": "src/images/homeIntro/ProductsCatalog/3.jpg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/3.jpg"
         },
         {
           "id": 4,
-          "src": "src/images/homeIntro/ProductsCatalog/4.jpg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/4.jpg"
         }
       ]
     },
@@ -49,62 +49,62 @@
         {
           "title": "Arts District Warehouse / Sheft Farrace",
           "time": "33 minutes ago",
-          "mainPicture": "src/images/homeIntro/Projects/picture-1.jpg",
+          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
           "pictures": [
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg"
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
           ],
           "description": "The world has its eyes on the Amazon. Geographical data about this vast territory, spanning 6.74 million square kilometers across eight countries in Latin America, is constantly featured in national and international media. Headlines often highlight its sheer magnitude as the largest tropical rainforest in the world, home to 10% of the planet's biodiversity, and responsible for 15% of the Earth's freshwater. However, little attention is paid to what transpires beneath its canopy, on the ground where people live."
         },
         {
           "title": "Arts District Warehouse / Sheft Farrace",
           "time": "33 minutes ago",
-          "mainPicture": "src/images/homeIntro/Projects/picture-1.jpg",
+          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
           "pictures": [
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg"
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
           ],
           "description": "The world has its eyes on the Amazon. Geographical data about this vast territory, spanning 6.74 million square kilometers across eight countries in Latin America, is constantly featured in national and international media. Headlines often highlight its sheer magnitude as the largest tropical rainforest in the world, home to 10% of the planet's biodiversity, and responsible for 15% of the Earth's freshwater. However, little attention is paid to what transpires beneath its canopy, on the ground where people live."
         },
         {
           "title": "Arts District Warehouse / Sheft Farrace",
           "time": "33 minutes ago",
-          "mainPicture": "src/images/homeIntro/Projects/picture-1.jpg",
+          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
           "pictures": [
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg"
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
           ],
           "description": "The world has its eyes on the Amazon. Geographical data about this vast territory, spanning 6.74 million square kilometers across eight countries in Latin America, is constantly featured in national and international media. Headlines often highlight its sheer magnitude as the largest tropical rainforest in the world, home to 10% of the planet's biodiversity, and responsible for 15% of the Earth's freshwater. However, little attention is paid to what transpires beneath its canopy, on the ground where people live."
         },
         {
           "title": "Arts District Warehouse / Sheft Farrace",
           "time": "33 minutes ago",
-          "mainPicture": "src/images/homeIntro/Projects/picture-1.jpg",
+          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
           "pictures": [
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg",
-            "src/images/homeIntro/Projects/picture-1.jpg"
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
           ],
           "description": "The world has its eyes on the Amazon. Geographical data about this vast territory, spanning 6.74 million square kilometers across eight countries in Latin America, is constantly featured in national and international media. Headlines often highlight its sheer magnitude as the largest tropical rainforest in the world, home to 10% of the planet's biodiversity, and responsible for 15% of the Earth's freshwater. However, little attention is paid to what transpires beneath its canopy, on the ground where people live."
         }
@@ -189,82 +189,82 @@
         ],
         "projects": [
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           },
           {
-            "img": "src/images/homeIntro/Projects/picture-1.jpg",
+            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
             "type": "Coffee Shop",
             "title": "Slow But Better Cafe & Bakery"
           }
         ],
         "offices": [
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           }
         ]
@@ -289,69 +289,69 @@
           "Architects"
         ],
         "images": [
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg",
-          "src/images/homeIntro/Projects/picture-1.jpg"
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
         ]
       }
     },
@@ -373,83 +373,83 @@
         ],
         "offices": [
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           },
           {
-            "images": "src/images/Office/Office-1.jpg",
+            "images": "https://house-clone-api.vercel.app/src/images/Office/Office-1.jpg",
             "name": "OMA"
           }
         ],
         "products": [
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           },
           {
-            "img": "src/images/Products/1.webp",
+            "img": "https://house-clone-api.vercel.app/src/images/Products/1.webp",
             "type": "EQUITONE",
-            "title": "Fiber Cement - Tectiva"
+            "title": "Fiber Cement Facade Panel - Tectiva"
           }
         ]
       }
@@ -469,9 +469,9 @@
         "professionals": [
           {
             "images": [
-              "src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -481,9 +481,9 @@
           },
           {
             "images": [
-              "src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -493,9 +493,9 @@
           },
           {
             "images": [
-              "src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -505,9 +505,9 @@
           },
           {
             "images": [
-              "src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -517,9 +517,9 @@
           },
           {
             "images": [
-              "src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -529,9 +529,9 @@
           },
           {
             "images": [
-              "src/images/homeIntro/Projects/picture-1.jpg",
-              "src/images/Products/1.webp",
-              "src/images/Products/1.webp"
+              "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp",
+              "https://house-clone-api.vercel.app/src/images/Products/1.webp"
             ],
             "name": "Kengo Kuma and Associates",
             "type": "Architecture Office",
@@ -548,16 +548,16 @@
       "id": "123456",
       "title": "PATTERN LAND / Cadence Architectsnone",
       "images": [
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg"
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
       ],
       "specs": {
         "architect": "Cadence Architects",
@@ -577,19 +577,19 @@
       "productsCatalog": [
         {
           "id": 1,
-          "src": "src/images/homeIntro/ProductsCatalog/1.jpeg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/1.jpeg"
         },
         {
           "id": 2,
-          "src": "src/images/homeIntro/ProductsCatalog/2.jpeg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/2.jpeg"
         },
         {
           "id": 3,
-          "src": "src/images/homeIntro/ProductsCatalog/3.jpg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/3.jpg"
         },
         {
           "id": 4,
-          "src": "src/images/homeIntro/ProductsCatalog/4.jpg"
+          "src": "https://house-clone-api.vercel.app/src/images/homeIntro/ProductsCatalog/4.jpg"
         }
       ]
     },
@@ -597,16 +597,16 @@
       "id": "123457",
       "title": "PATTERN LAND / Cadence Architectsnone",
       "images": [
-        "src/images/homeIntro/1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg",
-        "src/images/homeIntro/Projects/picture-1.jpg"
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+        "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg"
       ]
     },
     { "id": "123458", "introduce": "none", "images": "null" }
