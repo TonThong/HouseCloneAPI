@@ -66,14 +66,14 @@
           "id": "123457",
           "title": "PATTERN LAND / Cadence",
           "time": "33 minutes ago",
-          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
           "pictures": [
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/1.jpg",
             "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
           ],
           "description": "The world has its eyes on the Amazon. Geographical data about this vast territory, spanning 6.74 million square kilometers across eight countries in Latin America, is constantly featured in national and international media. Headlines often highlight its sheer magnitude as the largest tropical rainforest in the world, home to 10% of the planet's biodiversity, and responsible for 15% of the Earth's freshwater. However, little attention is paid to what transpires beneath its canopy, on the ground where people live."
@@ -82,15 +82,15 @@
           "id": "123458",
           "title": "HOUSE LAND / NEWCASTLE",
           "time": "33 minutes ago",
-          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
+          "mainPicture": "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
           "pictures": [
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg"
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg",
+            "https://house-clone-api.vercel.app/src/images/homeIntro/2.jpg"
           ],
           "description": "The world has its eyes on the Amazon. Geographical data about this vast territory, spanning 6.74 million square kilometers across eight countries in Latin America, is constantly featured in national and international media. Headlines often highlight its sheer magnitude as the largest tropical rainforest in the world, home to 10% of the planet's biodiversity, and responsible for 15% of the Earth's freshwater. However, little attention is paid to what transpires beneath its canopy, on the ground where people live."
         },
