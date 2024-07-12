@@ -192,51 +192,7 @@
           "Color"
         ],
         "projects": [
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          },
-          {
-            "img": "https://house-clone-api.vercel.app/src/images/homeIntro/Projects/picture-1.jpg",
-            "type": "Coffee Shop",
-            "title": "Slow But Better Cafe & Bakery"
-          }
+          123456, 123457, 123458, 123456, 123457, 123458, 123456, 123457, 123458
         ],
         "offices": [
           {
